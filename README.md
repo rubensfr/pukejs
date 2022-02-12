@@ -1,2 +1,2 @@
 # pukejs
-Página para interfacear com o pule js
+Página para interfacear com o puke js
